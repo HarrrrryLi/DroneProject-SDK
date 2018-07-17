@@ -183,7 +183,7 @@ void SDK_mainloop(void)
 
 	/****hovering test****/
 //	if(lock_flag == 0)
-//		hovering_test();
+		hovering_test();
 //	if(RO_ALL_Data.flying == 1 && lock_flag == 1)
 //		lock_motors();
 
